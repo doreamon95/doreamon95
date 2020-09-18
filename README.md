@@ -1,9 +1,6 @@
-<br />
+Learn slowly. Go. 🔆🔆
 
 <p align="center">
-  <a href="https://github.com/doreamon95">
-  	<img src="https://doreamon95.oss-cn-chengdu.aliyuncs.com/blogimg/image-20200918104014010.png" alt="image-20200918104014010" style="zoom: 67%;" />
-  </a>
   <p align="center" style="font-size: 20px">
 	实战
     <br />
