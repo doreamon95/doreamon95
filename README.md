@@ -12,7 +12,7 @@ Learn slowly. Go. 🔆🔆
      ·
     <a href="https://github.com/doreamon95/w4-front/">前端</a>
      ·
-    <a href="https://github.com/doreamon95/study-use-latex/">latex</a>
+    <a href="https://github.com/doreamon95/w1.1-study-use-latex/">latex</a>
   </p>
   <p align="center" style="font-size: 20px">
    🔆有光
