@@ -5,9 +5,10 @@ Learn slowly. Go. 🔆🔆
     🔆前行
     <br />
     <a href="https://doreamon95.github.io/w1-tips-Series/">工具</a>
-    [
+     [
     <a href="https://github.com/doreamon95/w1.1-study-use-latex/">latex</a>
-    ]
+     ]
+     ·
     <a href="https://github.com/doreamon95/w2-study-golang/">golang</a>
      ·
     <a href="https://github.com/doreamon95/w3-study-python/">python</a>
