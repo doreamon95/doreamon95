@@ -24,7 +24,7 @@ Learn slowly. Go. 🔆🔆
     <br />
     <a href="https://doreamon95.github.io/gitbook/">draft</a>
     ·
-    <a href="study-blockchain">研究生笔记</a>
+    <a href="https://github.com/doreamon95/study-blockchain">研究生笔记</a>
     ·
     <a href="https://github.com/doreamon95/LeetCode">LeetCode</a>
   </p>
