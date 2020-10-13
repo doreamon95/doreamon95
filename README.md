@@ -6,7 +6,7 @@ Learn slowly. Go. 🔆🔆
   <p align="center" style="font-size: 20px">
     🔆前行
     <br />
-    <a href="https://doreamon95.github.io/tips-Series/">工具</a>
+    <a href="https://github.com/doreamon95/tips-Series">工具</a>
      [
     <a href="https://github.com/doreamon95/study-use-latex/">latex</a>
      ]
